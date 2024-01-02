@@ -26,6 +26,8 @@
 
 ## Output:
 
+![Screenshot 2024-01-02 181425](https://github.com/rdivyav/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/148604723/9d6df535-ebdb-43b3-98f4-9234f5f4c032)
+
 ### Name: Divya R V
 ### Register Number:23014030
 
